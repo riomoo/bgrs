@@ -37,10 +37,10 @@ By using this content, you agree to abide by the terms of this "LICENSE NAME"+BG
 
 
 ## Example Licenses
-- [+BGRS](docs/+BGRS.txt)
-- [AGPL-3.0-only+BGRS](docs/AGPL-3.0-only+BGRS.txt)
-- [BSD-4-Clause+BGRS](docs/BSD-4-Clause+BGRS.txt)
-- [MIT+BGRS](docs/MIT+BGRS.txt)
+- [+BGRS](www/docs/+BGRS.txt)
+- [AGPL-3.0-only+BGRS](www/docs/AGPL-3.0-only+BGRS.txt)
+- [BSD-4-Clause+BGRS](www/docs/BSD-4-Clause+BGRS.txt)
+- [MIT+BGRS](www/docs/MIT+BGRS.txt)
 
 ## FAQ
 **Is +BGRS compatible with (A)GPL?**  
