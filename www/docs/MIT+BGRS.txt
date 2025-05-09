@@ -1,0 +1,14 @@
+Copyright (c) <year> <copyright holders>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the " Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice (including the next multiple paragraphs) shall be included in all copies or substantial portions of the Software.
+
+- You are free to modify and adapt the content as you see fit.
+- You may use the characters in this and in other properties, provided that their feats, overall personality, and status are not misrepresented.
+- Any modifications or adaptations must retain this MIT+BGRS License.
+- You must credit the original creator when using or adapting the content.
+By using this content, you agree to abide by the terms of this MIT+BGRS License.
+For any inquiries regarding this MIT+BGRS License, please contact the original creator.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
