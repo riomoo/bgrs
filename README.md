@@ -1,4 +1,4 @@
-# [+BGRS License](https://bgrs.jeste-designs.com/)
+# [+BGRS License](https://bgrs.jester-designs.com/)
 
 ## License
 
