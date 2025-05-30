@@ -54,3 +54,8 @@ You can't, the hope is this license creates consistency in characters that are s
 
 **When is it acceptable to use this License?**  
 Primarily when you need a license for Board games, RPGs, or Stories. It's compatible with anything like this, including Video Game RPGs, Standalone Stories, Websites with Stories or Board Games, etc. If you have software used for the frontend or backend, it's advised to use another license in conjunction with this one. If it's just story text, rule text, markdown text, and no software code? The +BGRS License alone is enough.
+
+**Creator:**
+- [Codeberg Riomoo](https://codeberg.org/riomoo)
+- [GitGud Riomoo](https://gitgud.io/riomoo)
+- [Github Riomoo](https://github.com/riomoo)
