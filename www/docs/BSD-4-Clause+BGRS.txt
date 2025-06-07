@@ -8,11 +8,11 @@ Redistribution and use in source and binary forms, with or without modification,
 This product includes software developed by the organization.
 4. Neither the name of the copyright holder nor the names the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
 
-- You are free to modify and adapt the content as you see fit.
-- You may use the characters in this and in other properties, provided that their feats, overall personality, and status are not misrepresented.
-- Any modifications or adaptations must retain this BSD-4-Clause+BGRS License.
+- All adaptations must maintain the integrity of the characters and their
+  representations (feats, personality, and status), even when used
+  in other properties.
 - You must credit the original creator when using or adapting the content.
-By using this content, you agree to abide by the terms of this BSD-4-Clause+BGRS License.
-For any inquiries regarding this BSD-4-Clause+BGRS License, please contact the original creator.
+- This license must be included in any project that borrows from this
+  content directly and you agree to the terms of this license.
 
 THIS SOFTWARE IS PROVIDED BY COPYRIGHT HOLDER "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL COPYRIGHT HOLDER BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.

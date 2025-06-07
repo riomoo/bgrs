@@ -14,27 +14,34 @@ There exists no license only existing for Board Games, RPGs, and/or Stories. Thi
 Two ways:
 If this LICENSE will be used as a standalone:
 ```
-Copyright (c) year owner. All rights reserved.
+Copyright (c) year owner.
+All rights reserved.
 
-This Board Game/RPG/Story License (+BGRS) allows users to modify, adapt, and use the content for board games, RPGs, and stories while ensuring the integrity of the characters and their representations.
-
-- You are free to modify and adapt the content as you see fit.
-- You may use the characters in this and in other properties, provided that their feats, overall personality, and status are not misrepresented.
-- Any modifications or adaptations must retain this +BGRS License.
+This +BGRS License grants permission to modify, adapt,
+and use the content for board games, RPGs, and stories:
+- All adaptations must maintain the integrity of the characters and their
+  representations (feats, personality, and status), even when used
+  in other properties.
 - You must credit the original creator when using or adapting the content.
-By using this content, you agree to abide by the terms of this +BGRS License. For any inquiries regarding this +BGRS License, please contact the original creator.
-```
+- This license must be included in any project that borrows from this
+  content directly and you agree to the terms of this license.
 
-
-Or include the following text in any compatible LICENSE file with the Original LICENSE name before the +:
+You may also apply or combine with additional licenses, resulting in
+a new license format: "any license+BGRS" as long as they do not conflict with this
+license and only the bullet points above are required to add to the combined license.
+Content is provided "as is," without warranty.
+For more information, visit: <https://bgrs.jester-designs.com>
 ```
- - You are free to modify and adapt the content as you see fit.
- - You may use the characters in this and in other properties, provided that their feats, overall personality, and status are not misrepresented.
- - Any modifications or adaptations must retain this "LICENSE NAME"+BGRS License.
- - You must credit the original creator when using or adapting the content.
-By using this content, you agree to abide by the terms of this "LICENSE NAME"+BGRS License. For any inquiries regarding this "LICENSE NAME"+BGRS License, please contact the original creator.
+Or include the following text in any compatible LICENSE such as MIT/AGPL/BSD-4-Clause:
 ```
-
+- All adaptations must maintain the integrity of the characters and their
+  representations (feats, personality, and status), even when used
+  in other properties.
+- You must credit the original creator when using or adapting the content.
+- This license must be included in any project that borrows from this
+  content directly and you agree to the terms of this license.
+```
+Which would change the license name format into any of the following licenses:
 
 ## Example Licenses
 - [+BGRS](www/docs/+BGRS.txt)
