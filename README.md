@@ -29,7 +29,7 @@ and use the content for board games, RPGs, and stories:
 You may also apply or combine with additional licenses, resulting in
 a new license format: "any license+BGRS" as long as they do not conflict with this
 license and only the bullet points above are required to add to the combined license.
-Content is provided "as is," without warranty.
+Content is provided "as is", without warranty.
 For more information, visit: <https://bgrs.jester-designs.com>
 ```
 Or include the following text in any compatible LICENSE such as MIT/AGPL/BSD-4-Clause:
